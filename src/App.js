@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <h1>Personal Website - feature</h1>
+      <h1>Personal Website - main</h1>
       <h3>About</h3>
     </div>
   );
